@@ -16,4 +16,8 @@
     "url": "https://github.com/Co-Lab-Project/colabproject/issues"
   },
   "homepage": "https://github.com/Co-Lab-Project/colabproject#readme"
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react-bootstrap": "^2.2.3"
+  }
 }

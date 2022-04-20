@@ -2,8 +2,18 @@
 
 # dependencies
 /node_modules
+/api/node_modules
+/app/node_modules
 /.pnp
 .pnp.js
+
+
+# ignore ENV files
+.env
+/api/.env
+/api/.env.local
+/app/.env
+/app/.env.local
 
 # testing
 /coverage
